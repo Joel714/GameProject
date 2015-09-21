@@ -1,0 +1,1 @@
+This is a one level platformer game. Guide your character to the end of the level to end the game. Pressing the 'a' and 'd' keys will make your character run left and right. Press the 'w' key to jump and 'f' to fire projectiles at enemies. To quit the game, press the 'q' or 'esc'key. This program was only tested on a linux machine.
